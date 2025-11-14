@@ -183,12 +183,12 @@ A estrutura final do laboratório ficou assim:
 
 Neste laboratório, foram realizados:
 
-✔ Criação completa da VPC
-✔ Configuração de arquitetura multi-AZ
-✔ Ajustes de rotas e networking
-✔ Criação de Security Group
-✔ Lançamento de EC2 com servidor web
-✔ Teste prático via navegador
+- ✔ Criação completa da VPC
+- ✔ Configuração de arquitetura multi-AZ
+- ✔ Ajustes de rotas e networking
+- ✔ Criação de Security Group
+- ✔ Lançamento de EC2 com servidor web
+- ✔ Teste prático via navegador
 
 ---
 
