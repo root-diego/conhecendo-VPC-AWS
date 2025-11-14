@@ -187,7 +187,7 @@ Neste laboratório, foram realizados:
 - ✔ Configuração de arquitetura multi-AZ
 - ✔ Ajustes de rotas e networking
 - ✔ Criação de Security Group
-- ✔ Lançamento de EC2 com servidor web
+- ✔ Lançamento de instância EC2 com servidor web
 - ✔ Teste prático via navegador
 
 ---
